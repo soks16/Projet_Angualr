@@ -1,0 +1,34 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 120000,
+      "comment": "poiuytresdfghjkl ",
+      "date": "2022-09-04T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "jdjqsk",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 2000,
+      "comment": "jhkqlskc",
+      "date": "2022-09-14T22:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Sokamby jesus",
+      "email": "sokambyj@gmail.com",
+      "password": "azerty",
+      "mobile": 23672091437,
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
